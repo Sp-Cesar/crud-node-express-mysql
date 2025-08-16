@@ -1,0 +1,1 @@
+Documento SQL que se puede importar en MySQL mediante el programa XAMPP
